@@ -21,7 +21,7 @@ public class ProbarEstructuraIF {
                 System.out.println("Es un numero negativo");
             }
 
-        int numero1 = 9;
+        int numero1 = 10;
         if (numero1 % 2 == 0) {
             System.out.println("Es un numero par");
         } else {
