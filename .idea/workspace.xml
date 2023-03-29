@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f4efa4f-edfe-4f37-906a-5272b2be3951" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_29_03_2023_StringJavaTime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/ProbarEstructuraIF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/ProbarJavaTime.java" afterDir="false" />
-    </list>
+    <list default="true" id="4f4efa4f-edfe-4f37-906a-5272b2be3951" name="Changes" comment="Proyecto dia 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +45,32 @@
       <option name="presentableId" value="Default" />
       <updated>1680108998972</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto dia 3">
+      <created>1680117494862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680117494862</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Proyecto dia 3">
+      <created>1680117564502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680117564502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proyecto dia 3">
+      <created>1680117570928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680117570928</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto dia 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto dia 3" />
   </component>
 </project>
