@@ -26,6 +26,6 @@ public class ProbarEstructuraIF {
             System.out.println("Es un numero par");
         } else {
             System.out.println("Es un numero impar");
-        }
+
     }
 }
